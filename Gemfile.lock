@@ -40,7 +40,10 @@ GEM
     minitest (5.11.3)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
+<<<<<<< HEAD
     pg (1.1.4)
+=======
+>>>>>>> 8630fe5fe80592d100a9e76a72bc3002df03b2b7
     rack (2.0.7)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
