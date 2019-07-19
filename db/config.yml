@@ -1,5 +1,5 @@
-default: &default
-  adapter: postgresql
+  default: &default
+  adapter: postgre
   encoding: unicode
   pool: 5
   host: localhost
